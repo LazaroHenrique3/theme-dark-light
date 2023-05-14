@@ -1,5 +1,5 @@
 # Tema claro escuro
-
+ 
 Projeto para criar a dinâmica de alternar entre temas de uma página (Claro - Escuro). Além de 
 utilizar a propriedade de Storage do navegador para guardar a preferência do usuário.
 
